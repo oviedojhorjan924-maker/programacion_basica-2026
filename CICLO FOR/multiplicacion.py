@@ -1,2 +1,2 @@
-for i in range(3,10):
-    print ("3 x", i, "=", 10 *i)
+for i in range(1,11):
+    print ("3 x", i, "=", 3 *i)
